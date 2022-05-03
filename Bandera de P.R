@@ -1,0 +1,6 @@
+Rect(50,100,300,200,relleno='rojo')
+Rect(50,140,300,200,relleno='blanco')
+Rect(50,180,300,40, relleno='rojo')
+Rect(50,260,300,40, relleno='rojo')
+Poligono(50,100,200,200,50,300,relleno='azul')
+Estrella(100,200,30,5, relleno='blanco')
